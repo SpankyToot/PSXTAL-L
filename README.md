@@ -13,3 +13,4 @@ A2 -	Enable PAL - PAL DFO PCB<br />
 D2 - Sense region - Pin157 of GPU (VIA of trace under silkscreen "157" near upper left of GPU)<br />
 
 
+!(https://github.com/SpankyToot/PSXTAL-L/blob/main/PU-18%20Wiring.jpg)
