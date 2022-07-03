@@ -1,5 +1,5 @@
 # PSXTAL-L
-Lightened version of VajSkids/L10N37's PSXTAL project using his DFO board and an Arduino NANO<br />
+Lightened version of VajSkids/L10N37's PSXTAL project (V1.00Bx) using his DFO board and an Arduino NANO<br />
 I essentially just removed code related to the Xstations IGR to clean it up in preperation to merge it into another project.<br />
 
 
