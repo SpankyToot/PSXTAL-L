@@ -25,7 +25,7 @@
 
 
 
-#define sensepin 2                       // A0 DETECTS REGION OF GAME FOR VIDEOMODE
+#define sensepin 2                       // D2 DETECTS REGION OF GAME FOR VIDEOMODE
 #define NTSCpin 15                          // NTSC XTAL pin to PSXTAL PCB (A1)
 #define PALpin 16                           // PAL XTAL  pin to PSXTAL PCB (A2)
 int counter = 0;
