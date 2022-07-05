@@ -1,0 +1,6 @@
+Nano - Function - PS1
+3.3V - Power - Any 3.6V source on PSX
+GND - Ground - Any GND point
+A1 - Enable NTSC - NTSC DFO
+A2 - Enable PAL - PAL DFO
+A0 - Sense region - Pin157 of GPU
