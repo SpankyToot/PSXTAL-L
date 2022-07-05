@@ -1,6 +1,6 @@
 # PSXTAL-L
-Lightened version of VajSkids/L10N37's PSXTAL project (V1.00Bx) using his DFO board and an Arduino NANO<br />
-My goal is to merge it with his modchip making my PU-18 a single Nano system with a modchip and region swapping capability.<br />
+Lightened version of VajSkids/L10N37's PSXTAL, an automatic video output frequency switcher project using his DFO board and controlling it with a Arduino NANO.<br />
+My goal is to merge it with his modchip making my PU-18 a single Nano system with a modchip and auto region frequency switching capability.<br />
 
 
 
