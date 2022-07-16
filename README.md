@@ -8,6 +8,9 @@ My goal is to merge it with his modchip making my PU-18 a single Nano system wit
 ## PU-18<br />
 ![](/PU-18%20Wiring.jpg)
 
+## DFO<br />
+![](/DFO%20Wiring.jpg)
+
 <br />
 <br />
 
